@@ -1,2 +1,12 @@
-# python-calculator
-A simple command-line calculator built using Python.  Performs basic arithmetic operations (+, −, ×, ÷) using Python.  Beginner-friendly Python project: CLI calculator using if-elif-else.  Python-based calculator for performing basic math operations in terminal.  A basic calculator app to practice Python conditionals and input/output.
+# Simple Calculator App 🧮
+
+A command-line calculator built using Python. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## 🔗 Project Link:
+👉 [View Source Code on GitHub](https://github.com/rohitcodes/simple-calculator)
+
+## 🚀 Features:
+- Easy-to-use CLI
+- Handles divide-by-zero
+- Built with if-elif-else statements
+
